@@ -3,7 +3,7 @@
 # Target: DVWA v1.10 (Brute Force - High)
 #   Date: 2015-11-07
 # Author: g0tmi1k ~ https://blog.g0tmi1k.com/
-# Source: https://blog.g0tmi1k.com/2015/11/dvwa-bruteforce-high/
+# Source: https://blog.g0tmi1k.com/dvwa/bruteforce-high/
 
 import requests
 import sys

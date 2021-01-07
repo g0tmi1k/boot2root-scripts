@@ -3,7 +3,7 @@
 # Target: DVWA v1.10 (Brute Force - Low)
 #   Date: 2015-10-25
 # Author: g0tmi1k ~ https://blog.g0tmi1k.com/
-# Source: https://blog.g0tmi1k.com/2015/10/dvwa-bruteforce-low/
+# Source: https://blog.g0tmi1k.com/dvwa/bruteforce-low/
 
 import requests
 import sys

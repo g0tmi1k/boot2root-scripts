@@ -3,7 +3,7 @@
 # Target: DVWA v1.10
 #   Date: 2015-10-19
 # Author: g0tmi1k ~ https://blog.g0tmi1k.com/
-# Source: https://blog.g0tmi1k.com/2015/10/dvwa-login/
+# Source: https://blog.g0tmi1k.com/dvwa/login/
 
 ## Variables
 URL="http://192.168.1.33/DVWA"
